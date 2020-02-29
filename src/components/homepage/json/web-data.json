@@ -1,0 +1,163 @@
+{
+    "items":
+    [
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/same-day.png","name":"same day"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Combos.png","name":"combos"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Flowers.png","name":"flowers"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Bdy.png","name":"birthday"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Chocolates.png","name":"chocolates"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Balloon.png","name":"balloons"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Mid-Night.png","name":"mid night"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Sale.png","name":"deals"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Perfume.png","name":"perfume"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Hamper.png","name":"gift hamper"}
+    ],
+    "best_selling":{
+        "heading": "Best Selling Gifts",
+        "sellingcontent":[
+            {"image":"https://i4.fnp.ae/images/pr/l/mixed-flowers-in-square-glass-vase_1.jpg","description":"Mixed Flowers In Square Glass Vase","price":"AED 169"},
+            {"image":"https://i1.fnp.ae/images/pr/l/red-velvet-cake-4-portions_1.jpg","description":"Red Velvet Cake 4 Portions","price":"AED 89"},
+            {"image":"https://i2.fnp.ae/images/pr/l/passionate-8-red-roses-box_1.jpg","description":"Mixed Flowers In Square Glass Vase","price":"AED 129"},
+            {"image":"https://i3.fnp.ae/images/pr/l/beautiful-roses-bouquet-with-chocolate-fudge-cake_1.jpg","description":"Beautiful Roses Bouquet With Chocolate Fudge Cake","price":"AED 189"}
+        ]
+    },
+    "allflowers":{
+        "heading": "All Flowers",
+        "mainImage":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/roses-2-dec-2019.jpg",
+        "subImageData":[
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/mixed-flowers-2-dec-2019.jpg","name":"mixed flower"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/Tulips-2-dec-2019.jpg","name":"tulips"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/lilies-2-dec-2019.jpg","name":"Lilies"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/FLowers-in-a-box-2-dec-2019.jpg","name":"Flower in a Box"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/Premium-Flowers-2-dec-2019.jpg","name":"Premium Flowers"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/all-flowers/hand-bouquet-2-dec-2019.jpg","name":"Hand Bouquets"}
+        ]
+    },
+    "allCakes":{
+        "heading":"All Cakes",
+        "mainImage":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/Chocolate-cakes-2-dec-2019.jpg",
+        "subImageData":[
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/half-KG-cakes-2-dec-2019.jpg","name":"Half KG Cakes"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/Eggless-cakes-2-dec-2019.jpg","name":"Eggless Cakes"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/Photocakes-2-dec-2019.jpg","name":"Photo cakes"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/Mono-cakes-2-dec-2019.jpg","name":"mono cakes"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/new-born-cakes-2-dec-2019.jpg","name":"new born cakes"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/all-cakes/cartoon-cakes-2-dec-2019.jpg","name":"cartoon Cakes"}
+        ]
+    },
+    "flowerCombos":{
+        "heading":"Flower Combos",
+        "mainImage":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/flowers-n-cakes-2-dec-2019.jpg",
+        "subImageData":[
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/Flowers-n-chocolaates-2-dec-2019.jpg","name":"flowers n chocolates"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/flower-n-Teddy-2-dec-2019.jpg","name":"flowers and soft toys"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/flower-n-cards-2-dec-2019.jpg","name":"Flowers N Greeting Cards"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/flowers-n-dry-fruits-2-dec-2019.jpg","name":"Flowers N Dry fruit"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/flowers-n-sweets-2-dec-2019.jpg","name":"Flowers N Sweets"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/flowers-n-cakes/Personalised-combos-2-dec-2019.jpg","name":"Flowers N Personalised Gifts"}
+        ]
+    },
+    "giftDelivery":{
+        "heading":"Gifts Delivery",
+        "mainImage":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/same-day-delivery1-10-dec-2019.jpg",
+        "subImageData":[
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/experiential-gifiting-2-dec-2019.jpg","name":"experimental gifts"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/soft-toys-2-dec-2019.jpg","name":"soft toys"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/perfumes-2-dec-2019.jpg","name":"Perfumes"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/plants-2-dec-2019.jpg","name":"Plants"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/hampers-2-dec-2019.jpg","name":"gift hamper"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/gift-delivery/Accessories-2-dec-2019.jpg","name":"Accessories"}
+        ]
+    },
+    "personsalizedGift":{
+        "heading":"Send Personalised Gifts",
+        "giftData":[
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/personalized-gifts-row/Mugs-2-dec-2019.jpg","name":"mugs"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/personalized-gifts-row/Cuhsions-2-dec-2019.jpg","name":"Cushion"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/personalized-gifts-row/Frames-2-dec-2019.jpg","name":"photo frame"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/personalized-gifts-row/photocakes-2-dec-2019.jpg","name":"photo cakes"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/personalized-gifts-row/personalised-combos-2-dec-2019.jpg","name":"Combos"}
+        ]
+    },
+    "ediablesGift":{
+        "heading":"Edible Gifts",
+        "giftData":[
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/edible-gift-row/fruit-basket-2-dec-2019.jpg","name":"fruit basket"},
+            {"image":"https://i2.fnp.ae/assets/images/custom/new-home-page-design/edible-gift-row/sweets-2-dec-2019.jpg","name":"sweets"},
+            {"image":"https://i3.fnp.ae/assets/images/custom/new-home-page-design/edible-gift-row/Chocolates-2-dec-2019.jpg","name":"chocolates"},
+            {"image":"https://i4.fnp.ae/assets/images/custom/new-home-page-design/edible-gift-row/Edible-Arrangements-2-dec-2019.jpg","name":"ediable arrangements"},
+            {"image":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/edible-gift-row/jar-cakes-2-dec-2019.jpg","name":"jar cakes"}
+        ]
+    },
+    "webCityInformation":{
+        "webCityInformation1":[
+            {"question":"Ferns N Petals- Best Flower Shop for Online Flower Deliveries in Dubai & Across UAE","answer":"Ferns N Petals is a one-stop solution for all your gifting needs and we have been consistently creating thousands of magical experiences for people across the globe. When our premium quality of flowers and gifts are coupled with impeccable delivery services that we offer, the experience is almost unforgettable. We make sure that we deliver the best flowers in Dubai. After all, it is the quality and timely delivery of services that scores the major brownie points for our customers. And we understand the emotions and love behind every order, hence we are committed to giving you the best gift delivery services in Dubai and across UAE"},
+            {"question":"Deliver the Wonderful Experience Through Our Additional Efforts and Delivery Services","answer":"To ensure that you have the best gifts to be picked for the occasion, we have come up with the widest range of flowers, cakes, shisha, plants, chocolates and other personalized gift items. We have even showcased jaw-dropping floral jewelry which has been designed by the in-house designers with utmost finesse. Not just gifts, but we believe in providing the best experiences for our customers. Therefore, we have come up with special Yacht services, Car decor and you can even allow our Guitarist to play the love tunes for your beloved."},
+            {"question":"Send Amazing Valentine’s Day Gifts Online in the UAE via Ferns N Petals","answer":"Being in love is a magical feeling. The power of love fills your heart with kindness and compassion and makes you see the beauty in everything. Every year, Valentine’s Day is observed on 14th February when people celebrate the love that makes their relationship even more beautiful and strong. Ferns N Petals presents a wide array of Valentines Day gifts that are excellent to shower your partner with loads of love. Ranging from Valentine flowers, forever roses, personalised gifts, yummy cakes, chocolates, greeting cards, and soft toys to trendy accessories, we offer plenty of awesome Valentines Day gifts for her. These gifts are perfect to sweep your sweetheart off her feet and make the day memorable for her. According to your husband’s/boyfriend’s preference, you can pick Valentines Day gifts for him from our website and send them as a token of your undying love and appreciation. Also, don’t forget to check out romantic Valentines Day quotes on our website that you can share with your partner through Whatsapp and Facebook as a gesture of love."},
+            {"question":"Which Is The National Flower Of UAE?","answer":"Tribulus Omanense is the national flower of UAE. For its unique medical properties, it has been extensively used in homeopathy medicines. Tribulus flower belongs to the Zygophyllaceae family whose sub-family is Tribuloideae. This charming flower is mostly available in warm countries and the color varies from yellow to dark yellow. It has 5 petals and the leaves are quite distinctive, unlike other flowers. Although, it is still not announced as the National flower of UAE, but, the residents of UAE have accepted Tribulus Omanese whole-heartedly as their National Flower. The main reason behind is its uniqueness and joyful yellow color. Yellow is the color of sunshine and reflects the Fire element and thus it is directly linked with hope and happiness. Yellow color symbolizes positivity, optimism, enlightenment, intellect, energy, cheerfulness, and loyalty. Apart from that yellow color also signifies friendship, equality, and brotherhood."}
+        ],
+       
+        "webCityInformation2":[
+            {"question":"Order Delicious Cakes in Dubai and Across UAE for Every Occasion","answer":"There are multiple special occasions in life and for each one of them you need a nice gift to impress your loved ones. That’s why we are here with a delicious collection of cakes that you can order for your loved ones for a variety of occasions like a birthday, anniversary, Mother’s Day, Father’s Day, National Day, Eid, Christmas, etc. Occasions like Anniversary and Birthdays are quite special and require excellent cakes to make them truly special. Cakes are also the best dessert items ever because they are neither too sweet nor do they carry too many calories. Gift your loved ones some of the best cakes in town selecting from our wide range of cream cakes, fondant cakes, designer cakes, semi-fondant cakes, cartoon cakes, photo cakes etc. If you are looking for birthday cake delivery in Dubai or any other parts of UAE, use the trustworthy services of Ferns N Petals."},
+            {"question":"Buy Online Exciting Gifts for Men & Women on Special Occasions from Ferns N Petals","answer":"Gifting is an art that makes a huge difference in everyone's life. Through gifts, people extend love and congratulatory wishes to their dear ones. Whether you have to wish someone good luck in a new endeavor or express gratitude towards your close ones for their help, doing it with fabulous gifts is a perfect idea. The lip-smacking cakes, ravishing flowers, air-purifying plants, personalised gifts and adorable soft toys are some of the fabulous gift ideas that you can order from our website from the comfort of your home. We have a dedicated section of gifts for men that includes grooming hampers, trendy accessories and greeting cards that you can order online to wish your father, brother, son or male friend on festivals and other special occasions. Similarly, we have a separate section of gifts for women like floral arrangements, makeup hampers, tempting chocolates and cupcakes. You can send these gifts to the important women in your life on Women's Day, birthdays, anniversaries, Christmas and other major occasions. So what are you waiting for? Send your love and best wishes wrapped as astonishing gifts to your loved ones just with a few clicks!"},
+            {"question":"Gifting all Across UAE at Best Price - Pick From Wide Variety of Best Gifts","answer":"Gifting is a creative art and truly we have mastered this art with our vast experience spread around a number of years. We believe in gifting, but with a difference. You can pick up online gifts such as flowers, cakes, chocolates, Personalised Gifts, teddy bears, coffee mugs, etc. that are presented beautifully to make your loved ones smile in Dubai and all across UAE. If you are searching for some amazing gift ideas to surprise your loved ones in the UAE-flowers would be a great option because they symbolize love, care, respect, gratitude, honesty, purity, and positivity. Apart from personal gifts, we also provide corporate gifts in Dubai. So, what are your waiting for? Send your love and best wishes wrapped as astonishing gifts to your loved ones, business clients and partners, employees wherever they are and whenever you feel like, just with a few clicks!"},
+            {"question":"Order Fresh & Beautiful Plants Online in the UAE from Ferns N Petals","answer":"Plants are the gifts of nature that create a serene environment. Whether placed in the garden, balcony, home, or workplace, plants can brighten up the aura of any space instantly. They purify the air we breathe and create a healthy living environment. Green plants also make one of the most thoughtful gifts for friends, family members, and loved ones on special occasions. They are beautiful, long-lasting, and healthy gift options that symbolize love and best wishes for the recipient in a thoughtful way. Ferns N Petals is a famous online gift portal that offers a wide range of potted plants in Dubai. Ranging from lucky bamboo, phalaenopsis, Haworthia, Anthurium, Chrysanthemums, Azalea, Sansevieria to money plant, you can order online several indoor plants in Dubai from our website. Be it the joyous festival of Christmas, birthday of your best friend, parent’s anniversary, Eid, or New Year celebrations, you can gift plants to your near and dear ones as a gift of greenery that will bring good health and happiness to their lives. We also deliver outdoor plants in Dubai that you can gift your friends and family members who have a big garden attached to their home and loves gardening. With the help of our same day, midnight and next day delivery services, you can send indoor and outdoor plants across the UAE, such as Dubai, Fujairah, Al Ain, Fujairah, Ras Al Khaimah, etc."}
+        ],
+        "webCityInformation3":{
+            "question":"Why Ferns N Petals Is The Best Flower Shop In Dubai To Send Flowers Online?",
+            "answer":"Ferns N Petals is definitely the best florist in Dubai. The reasons are mentioned below.",
+            "points_description":[
+                {"point":"Trust","description":"Being in this business since 1994, it made us learn a lot about the whole gifting industry. Our services impressed our customers and we became the most trusted name in the country."},
+                {"point":"Serviceability","description":"Our services allow us to deliver gifts all across UAE. You can send gifts to Dubai, Sharjah, Abu Dhabi, Al Ain, Ras Al Khaimah, Fujairah and many more places to list down. Our impeccable services have always delighted our customers"},
+                {"point":"Money Back","description":"When you are ordering flowers from us, you can be rest assured to have the best blooms for the occasion. However, if you are not satisfied with the quality of the gift, you can avail the refund as per the terms and conditions mentioned."},
+                {"point":"One Hour Delivery in Dubai","description":"We offer our customers one-hour delivery service of gifts, flowers, chocolates, and soft toys, etc. for an excellent online shopping experience. No worries if you are ordering gifts at the last moment, we will deliver them to the doorstep of your loved ones with our hassle-free one-hour gift delivery in Dubai. In Dubai, we serve in all the famous spots like Jumeirah Lakes Towers (JLT), Dubai Mall, Deira, Bur Dubai, Marina, Al Barsha, etc."},
+                {"point":"3 Hours Express Delivery","description":"We know the value of time and therefore we reach the destination quite fast with our express delivery service."},
+                {"point":"Same Day Delivery","description":"Making your loved ones smile miles away from where you are, with a gift is what we aim at. With same day gifts delivery, your love would reach your sweetheart on the same day you place the order."},
+                {"point":"Fixed Time & Midnight Delivery","description":"ou have an option to select a time while placing the order with us and we make sure that we reach just on time. If you want to avail fixed time delivery you have to order before 8pm to Dubai, Sharjah and Abu Dhabi."},
+                {"point":"Midnight Delivery Services","description":"These are incorporated because we know the joy and excitement of wishing a friend at midnight on his birthday is simply immeasurable. You have to order before 8pm to make your delivery possible at 11:30 or 12:30 pm."},
+                {"point":"Expertise","description":" At Ferns N Petals, we expertise in exclusive gifts, flower bouquets, floral arrangements, personalised gifts, and gift hampers for all the festivals and special occasions. You can search for the amazing gift ideas on our website and we promise to offer you thoughtful and affordable gift options for every major occasion."}
+            ]
+        },
+        "webCityInformation4":{
+            "question":"Avail International Delivery of Gifts To Your Friends & Family",
+            "answer":"The festivals and special occasions bring people together when they actually get a chance to create wonderful memories with those who mean the world to them. Gifts enhance the joy of special occasions through which people convey their heartfelt love, care and gratitude to their loved ones. Be it the festival of light, Diwali or much-awaited New Year celebrations, Ferns N Petals offer fabulous gifts for every occasion and people of all age groups. You can have a look at our wonderful collection of flowers, cakes, personalised gifts and plants to send gifts to Philippines from UAE on your best friend’s wedding, sister’s baby shower, Mother’s Day, Father’s Day and Women’s Day. The heartwarming gifts along with loads of love will definitely leave your dear ones teary-eyed with a big smile on their face. Apart from Philippines, we also offer gifts delivery to several international locations like Lebanon, Saudi Arabia, Egypt, Oman, Jordan, Bahrain, Qatar, and many more. Through our hassle-free same day, next day, and express delivery service, you can send gifts to your loved ones residing in these countries on joyous occasions and make them feel closer."
+        },
+        "webCityTableInformation1":{
+            "heading":"Flower Delivery Dubai - Ferns N Petals",
+            "webCity_tableHeading":["gift type","Varieties","our speciality"],
+            "webCity_tableData":[
+                {"type":"Flowers in Dubai","variety":"Roses, Lilies, Carnations, Orchids, Flower Bouquet etc.","speciality":"Same Day Delivery"},
+                {"type":"Cakes","variety":"Eggless Cakes, Designer Cakes, Cup Cakes, Muffins etc.","speciality":"Midnight Delivery"},
+                {"type":"Personalised Gifts","variety":"Cushions, Mugs, Keychains, Plants, Photo Frames etc.","speciality":"3 Hours Express Delivery"}
+            ]
+        },
+        "webCityTableInformation2":{
+            "heading":"Time-Slot for Same Day Delivery Orders Placement",
+            "webCity_tableHeading":["city","order before"],
+            "webCity_tableData":[
+                {"type":"Dubai","speciality":"10 PM"},
+                {"type":"Abu Dhabi/Sharjah","speciality":"9 PM"},
+                {"type":"Ajman","speciality":"4 PM"},
+                {"type":"Al Ain/Ras-Al-Khaimah/Fujairah/Umm-Al-Quwain","speciality":"10 AM"}
+            ]
+        }
+    },
+    
+    "faqs":{
+        "heading": "Frequently Asked Questions",
+        "faq":[
+            {"question":"What are the kind of flowers do you have?","answer":"Ferns N Petals have great range of exotic flowers from all over the world, that includes orchids, Roses, lilies, carnations, chrysanthemums, Gerberas, Tulips, and many more."},
+            {"question":"What are the kind of flower arrangements do you have?","answer":"The florists of Ferns N Petals designes charming arrangement of flower bouquets, flower boxes, centerpeices, flower vase, etc made with flowers from all over the world."},
+            {"question":"Does Ferns N Petals has a flower shop near me?","answer":"Yes, Ferns N Petals has physical flower shop in Dubai and Abu Dhabi and delivers flowers online all across the UAE."},
+            {"question":"Do you deliver flowers in my city?","answer":"Yes, Ferns N Petals delivers flowers Dubai, Abu Dhabi, Sharjah, Ajman, Al Ain, Fujairah, Umm Al Quwain and all across UAE."}
+        ]
+    },
+    "freshSuggestedBlogs":{
+        "heading": "Fresh & Suggested Reads from our Blog",
+        "blogData":[
+            {"heading":"Last Minute Hassle-Free Birthday Surprise Ideas","description":"Birthday celebrations are so much fun. They are much more than an occasion to receive gifts and eat cake. Birthdays give people a chance to get together with their loved ones and have a great time together. When it comes to","link":"https://www.facebook.com"},
+            {"heading":"Valentine’s Day Gifts Based on Your Partner’s Personality","description":"Valentine’s Day is the day to celebrate love and shower your significant other with romantic gifts. But choosing the perfect Valentines Day gift for your partner is a challenge that becomes increasingly difficult. The one thing","link":"https://www.amazon.in"},
+            {"heading":"DIY Gifts that Won’t Cost You A Fortune","description":"When it comes to searching for gifts for loved ones, we want nothing but best for them. But let us tell you, the gift need not be expensive to be impressive. Sometimes the best gift you can give is the one you create yourself","link":"https://www.facebook.com"}
+        ]
+    }
+}

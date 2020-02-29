@@ -1,0 +1,15 @@
+{
+    "items":
+    [
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/same-day.png","name":"same day"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Combos.png","name":"combos"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Flowers.png","name":"flowers"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Bdy.png","name":"birthday"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Chocolates.png","name":"chocolates"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Balloon.png","name":"balloons"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Mid-Night.png","name":"mid night"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Sale.png","name":"deals"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Perfume.png","name":"perfume"},
+        {"icon":"https://i1.fnp.ae/assets/images/custom/new-home-page-design/occassionList/Hamper.png","name":"gift hamper"}
+    ]
+}
